@@ -17,6 +17,7 @@
             color: #777777;
         }
         .price-block{
+			border-radius: 5px;
             background-color: rgb(46, 204, 113);
         }
         .center{
